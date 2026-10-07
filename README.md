@@ -33,7 +33,7 @@ Link is a short-link product: short links on a domain you own, each with a match
 
 ## Part of the me.at family
 
-link.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+link.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
